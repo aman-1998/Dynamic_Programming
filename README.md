@@ -12,4 +12,4 @@ Dynamic_Programming:-
 
 6)Subset Sum
 
-7)0/1 Knaosack
+7)0/1 Knapsack
